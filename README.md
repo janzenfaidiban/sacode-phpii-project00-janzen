@@ -2,17 +2,17 @@
 
 ## Garis Besar
 
-✅ Perkenalan
-✅ Spesifikasi laptop
-✅ Koneksi internet
-✅ Google Classroom
-✅ Google Calendar
-✅ GitHub
-✅ Git
-✅ Xampp (Apache, MySQL, PHPMyAdmin)
-✅ Text Editor
-✅ Web Browser
-✅ Discord
+	✅ Perkenalan
+	✅ Spesifikasi laptop
+	✅ Koneksi internet
+	✅ Google Classroom
+	✅ Google Calendar
+	✅ GitHub
+	✅ Git
+	✅ Xampp (Apache, MySQL, PHPMyAdmin)
+	✅ Text Editor
+	✅ Web Browser
+	✅ Discord
 
 ## Catatan
 
